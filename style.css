@@ -3,3 +3,8 @@
   background-color: red;
   color: white;
 }
+
+#going_to_the_rihght {
+  position: absolute;
+  left:50px
+}
