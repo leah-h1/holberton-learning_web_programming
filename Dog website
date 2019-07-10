@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Doggos</title>
+<style>
+.Dog1 {
+left: 500px;
+top: 500px;
+border:none;
+width: 400px;
+height: 400px;
+}
+
+  </head>
+
+
+<body>
+<div class="Dog1">
+  <img src="https://png.pngtree.com/element_our/png/20181031/dog-exercise-png_225208.jpg"></img>
+</div>
+</body>
+
+</html>
