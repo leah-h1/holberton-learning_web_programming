@@ -1,13 +1,13 @@
 
-
 var i, j;
 i = 0;
-while(i < 25) {
+while(i <= 23) {
+    console.log(i);
     j = 0;
-    while(j < 60) {
+    while(j <= 59) {
         console.log(j);
         j++;
     }
-    console.log(i);
     i++;
+    j = 0
 }
