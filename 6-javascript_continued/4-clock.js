@@ -1,12 +1,13 @@
-var i = 0;
-var j = 0;
 
-while (i < 24) {
-console.log (i)
-  i++;
 
-  while (j < 60) {
-    console.log (j)
-      j++;
-  }
+var i, j;
+i = 0;
+while(i < 25) {
+    j = 0;
+    while(j < 60) {
+        console.log(j);
+        j++;
+    }
+    console.log(i);
+    i++;
 }
