@@ -6,5 +6,5 @@ console.log (i)
 var b = 0;
 while (b < 60) {
   console.log (b)
-    i++;
+    b++;
 }
