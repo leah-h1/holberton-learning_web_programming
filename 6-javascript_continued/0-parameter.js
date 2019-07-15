@@ -1,4 +1,2 @@
-node 0-parameter.js Hello
-
-var passedParameter = process.argv.slice(2);
-console.log('Here is the first passed parameter: ', passedParameter:);
+let my-parameter = process.argv(2);
+console.log('Here is the first passed parameter: ', my_parameter:);
